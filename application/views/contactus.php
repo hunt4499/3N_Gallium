@@ -19,6 +19,14 @@
           <?= form_open_multipart('contactus/sendmail'); ?>
 
           <div id="othercheck"  class="form-group">
+            <label for="">First Name</label>
+            <input type="email" class="form-control" id="linktes" placeholder="Enter First Name" name="firstname">
+          </div>
+          <div id="othercheck"  class="form-group">
+            <label for="">Last Name</label>
+            <input type="email" class="form-control" id="linktes" placeholder="Enter email Address" name="lastname">
+          </div>
+          <div id="othercheck"  class="form-group">
             <label for="">Email</label>
             <input type="email" class="form-control" id="linktes" placeholder="Enter email Address" name="emailothers">
           </div>
@@ -27,6 +35,16 @@
             <label for="">Subject</label>
             <input type="text" class="form-control" id="newstitle" placeholder="Enter subject" name="subject" required>
           </div>
+          <div class="form-group">
+            <label for="">Company name</label>
+            <input type="text" class="form-control" id="Company_name" placeholder="Company name" name="companyname" required>
+          </div>
+          <div class="form-group">
+            <label for="">Phone Number</label>
+            <input type="text" class="form-control" id="Company_name" placeholder="Company name" name="companyname" required>
+          </div>
+        
+
           <div class="form-group">
             <label for="newscontent">Email Content</label>
             <textarea type="text" class="form-control summernoteExample2 " id="" placeholder="Location" name="content" required></textarea>
