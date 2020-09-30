@@ -1,0 +1,92 @@
+.horizontal-menu .bottom-navbar .page-navigation > .nav-item > .nav-link .menu-title {
+  font-size: 15px !important;
+  font-weight: 700 !important;
+}
+.horizontal-menu .bottom-navbar .page-navigation > .nav-item .submenu ul li a {
+  font-weight: 600 !important;
+}
+.card {
+  border-radius: 7px !important;
+  box-shadow: 0 3px 27px 0 rgba(0, 0, 0, 0.09) !important;
+  background-color: #ffffff !important;
+}
+
+.card .card-body {
+    padding: 20px!important;
+}
+
+.table th img, .table td img {
+    width:auto!important;
+    height:auto!important;
+    border-radius:0!important;
+}
+
+.table-striped th{
+    
+    border-top: none!important;
+    background-color:#ffffff!important;
+    border-bottom: solid 1px #e2e9f0;
+    color: #504b66!important;
+    font-size: 16px!important;
+    font-weight: bold!important;
+}
+
+
+.table-striped td {
+    
+    border-top: none!important;
+    color: #504b66!important;
+    font-size: 16px!important;
+}
+
+
+.horizontal-menu .bottom-navbar .page-navigation > .nav-item:not(.mega-menu) .submenu ul {
+    width: auto;
+    padding: 10px 25px!important;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    color: #0d87d5!important;
+    font-size: 19px;
+    font-weight: bold;
+
+    background-color: #ffffff;
+    border-color: #ebedf2 #ebedf2 #ffffff;
+}
+.nav-tabs {
+    border-bottom: 1px solid #ebedf2;
+    margin-bottom: 20px!important;
+}
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    color: #504b66!important;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.tab-content .card{
+    background-color: #f8f9fb!important;
+    border-radius: 0px!important;
+    box-shadow: none!important;
+    background: #ffffff!important;
+    border: none!important;
+    margin-bottom: 20px!important;
+}
+.tab-content .card-header{
+    background-color: #f8f9fb!important;
+    border-radius: 0px!important;
+    border: none!important;
+}
+.tab-content .card-header a{
+    color: #504b66!important;
+    font-size: 16px!important;
+  font-weight: 600!important;
+
+}
+.tab-content .card-body{
+    
+    border: solid 1px #f2f4f6;
+    margin-bottom: 20px!important;
+}

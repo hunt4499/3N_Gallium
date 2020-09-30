@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.247" height="37.148" viewBox="0 0 37.247 37.148">
+    <defs>
+        <filter id="satr_blue" width="37.247" height="37.148" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g filter="url(#satr_blue)">
+        <path id="satr_blue-2" fill="#2576d7" d="M1977.216 1737.914l-3.092 7.181h-6.083l5.385 5.584-2.094 6.383 6.482-3.989 5.884 3.989-1.8-6.383 5.385-5.584h-6.781z" data-name="satr_blue" transform="translate(-1959.04 -1731.91)"/>
+    </g>
+</svg>

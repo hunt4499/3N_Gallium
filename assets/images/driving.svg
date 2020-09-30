@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9.333" height="13.023" viewBox="0 0 9.333 13.023">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="driving" transform="translate(-72.495)">
+        <path id="Path_361" d="M236.673 387.981a.5.5 0 1 0 .5.5.5.5 0 0 0-.5-.5z" class="cls-1" data-name="Path 361" transform="translate(-159.511 -378.109)"/>
+        <path id="Path_362" d="M185 302.55a2.666 2.666 0 0 0-1.851.746l.646.185-.444 1.364h.443a1.265 1.265 0 0 1 2.413 0h.443l-.444-1.364.646-.185a2.666 2.666 0 0 0-1.852-.746z" class="cls-1" data-name="Path 362" transform="translate(-107.838 -294.851)"/>
+        <path id="Path_363" d="M158.5 422.7h-.7l-.2.609-.415-.068a2.684 2.684 0 0 0 2.13 1.726v-1.442a1.271 1.271 0 0 1-.815-.825z" class="cls-1" data-name="Path 363" transform="translate(-82.54 -411.948)"/>
+        <path id="Path_364" d="M81.766 198.1l-1.073-2.655a1.011 1.011 0 0 0-.941-.634h-5.18a1.011 1.011 0 0 0-.941.634l-1.073 2.655a.853.853 0 0 0 .241.974l1.471 1.241.272.045.443-1.36-.4-.113-.474.013-.021-.763.348-.01a3.435 3.435 0 0 1 5.44 0l.348.01-.021.763-.474-.013-.4.113.443 1.36.272-.045 1.471-1.241a.853.853 0 0 0 .249-.974z" class="cls-1" data-name="Path 364" transform="translate(0 -189.855)"/>
+        <path id="Path_365" d="M272.412 422.7h-.692a1.271 1.271 0 0 1-.825.825v1.442a2.683 2.683 0 0 0 2.13-1.726l-.415.068z" class="cls-1" data-name="Path 365" transform="translate(-193.352 -411.948)"/>
+        <circle id="Ellipse_1" cx="2.288" cy="2.288" r="2.288" class="cls-1" data-name="Ellipse 1" transform="translate(74.874)"/>
+    </g>
+</svg>

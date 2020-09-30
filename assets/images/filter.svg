@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="filter" width="16.632" height="18.426" viewBox="0 0 16.632 18.426">
+    <defs>
+        <style>
+            .cls-1{fill:#085c78}
+        </style>
+    </defs>
+    <path id="Path_9628" d="M75.606 100.675c.29.419.2.07.2 8.421a.91.91 0 0 0 1.454.728c2.568-1.936 3.081-2.1 3.081-3.009 0-6.086-.071-5.743.2-6.14L84.716 95h-13.28z" class="cls-1" data-name="Path 9628" transform="translate(-69.762 -91.58)"/>
+    <path id="Path_9629" d="M41.456.463A.858.858 0 0 0 40.693 0h-14.9a.861.861 0 0 0-.705 1.353c0 .005-.045-.061.724.986h14.862c.656-.892 1.094-1.278.782-1.876z" class="cls-1" data-name="Path 9629" transform="translate(-24.927)"/>
+</svg>

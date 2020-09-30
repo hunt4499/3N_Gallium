@@ -1,0 +1,218 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif !important;
+  color: #504b66;
+}
+a:hover {
+  text-decoration: none !important;
+}
+.logOut ul {
+  text-align: right;
+  list-style: none;
+}
+.logOut ul li {
+  text-align: right;
+  list-style: none;
+  display: inline-block;
+  margin-left: 30px;
+  position: relative;
+  top: 11px;
+}
+.logOut ul li a {
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 600;
+}
+.logOut ul li a .mdi {
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 600;
+}
+.yellow-point {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  object-fit: contain;
+  background-color: #f89c4a;
+  display: block;
+  position: absolute;
+  top: -2px;
+  right: 0px;
+}
+.page-title {
+  font-size: 22px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.18;
+  letter-spacing: normal;
+  text-align: left;
+  color: #504b66;
+}
+.font15 {
+  font-size: 15px;
+  font-weight: 400 !important;
+  color: #070707;
+  margin-bottom: 40px;
+}
+.total-no {
+  font-size: 22px;
+  color: #3a3a3a;
+}
+.green-box-wrp {}
+.green-box-header, .gray-box-header {
+  background-color: #e2f0ea;
+  -webkit-border-top-left-radius: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 47px;
+  padding: 0px 15px;
+}
+.gray-box-header {
+  background-color: #e2e9f0;
+}
+.green-box-header .card-title, .gray-box-header .card-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #504b66;
+  margin-top: 12px;
+}
+.green-box-header small {
+  margin-top: 15px;
+  display: block;
+}
+.green-box-header small a {
+  font-size: 10px;
+  color: #504b66;
+  margin-top: 12px;
+}
+.green-box-body {
+  background: #ffffff;
+  border: solid 1px #e2e9f0;
+}
+.request {
+  padding: 15px;
+}
+.driver-details {
+  margin-bottom: 15px;
+}
+.driver-pic {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  float: left;
+}
+.driver-wrp {
+  border-bottom: solid 1px #e2e9f0;
+  float: right;
+  width: 175px;
+}
+.driver-Name {
+  font-size: 12px;
+  font-weight: 500;
+  color: #0d87d5;
+}
+.driver-Number {
+  font-size: 10px;
+  color: #504b66;
+  font-weight: normal;
+}
+.pad15px {
+  padding: 15px;
+}
+.cyan-bg, .red-bg, .green-bg, .blue-bg, .orange-bg {
+  width: 54px;
+  height: 27px;
+  border-radius: 3px;
+  background-color: #00e0c4;
+  font-size: 10px;
+  font-weight: 600;
+  color: #ffffff;
+  text-transform: uppercase;
+  line-height: 27px;
+  text-align: center;
+}
+.red-bg {
+  width: 54px;
+  height: 27px;
+  background-color: #e04500;
+}
+.green-bg {
+  width: 64px;
+  height: 27px;
+  background-color: #41b759;
+}
+.blue-bg {
+  width: 54px;
+  height: 27px;
+  background-color: #00e0c4;
+}
+.orange-bg {
+  width: 64px;
+  height: 27px;
+  background-color: #e0b300;
+}
+.view-all-link a {
+  font-size: 16px;
+  font-weight: bold;
+  color: #0d87d5;
+  margin-top: 15px;
+  display: block;
+}
+.gray-round-pic {
+  width: 41px;
+  height: 41px;
+  border-radius: 50%;
+  border: solid 2px #ffffff;
+  background-color: #ababab;
+}
+.pay-now-btn {
+  width: 121px;
+  height: 44px;
+  border-radius: 5px;
+  border: solid 1px #0d87d5;
+  background-color: #ffffff;
+  font-size: 15px;
+  font-weight: 500;
+  color: #0d87d5;
+}
+.md-accordion .card .card-header a:not(.collapsed) .rotate-icon {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.mdi-chevron-down {
+  float: right;
+}
+.compose-mail-btn {
+  width: 130px;
+  height: 44px;
+  font-size: 16px;
+  font-weight: 600 !important;
+  border-radius: 5px;
+  background-color: #0d87d5;
+  border: none;
+  color: #ffffff;
+}
+.page-no {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: normal;
+  color: #504b66;
+  margin-right: 20px;
+  position: relative;
+  top: -7px;
+}
+.Qcount {
+  font-size: 16px;
+  font-weight: bold;
+  color: #504b66;
+}
+.add-question {
+  font-size: 15px;
+  font-weight: bold;
+  color: #0d87d5;
+}

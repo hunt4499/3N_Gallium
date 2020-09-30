@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <g id="view" transform="translate(-1172 -1231)">
+        <circle id="Ellipse_556" cx="15" cy="15" r="15" fill="#878787" data-name="Ellipse 556" transform="translate(1172 1231)"/>
+        <g id="eye_1_" data-name="eye (1)" transform="translate(1179.372 1239.561)">
+            <g id="Group_52" data-name="Group 52" transform="translate(0 2.551)">
+                <g id="Group_51" data-name="Group 51">
+                    <path id="Exclusion_7" fill="#fff" d="M7.577 7.7A8.289 8.289 0 0 1 .711 4.077l-.193.213a.3.3 0 1 1-.444-.39A10.563 10.563 0 0 1 7.577 0a10.564 10.564 0 0 1 7.5 3.9.3.3 0 0 1-.445.392l-.192-.213A8.3 8.3 0 0 1 7.577 7.7zM5.505 3.515a.3.3 0 0 0-.3.289v.044a2.368 2.368 0 1 0 2.372-2.369 2.338 2.338 0 0 0-.951.2.3.3 0 1 0 .238.541A1.777 1.777 0 1 1 5.8 3.848v-.03a.3.3 0 0 0-.289-.3h-.006zm2.072-.555a.888.888 0 1 0 .888.888.889.889 0 0 0-.888-.888zM5.8 2.368a.3.3 0 1 0 .209.087.294.294 0 0 0-.209-.087zm1.777 1.776a.3.3 0 1 1 .3-.3.3.3 0 0 1-.3.3z" data-name="Exclusion 7"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

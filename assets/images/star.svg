@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.267" height="32.193" viewBox="0 0 32.267 32.193">
+    <defs>
+        <filter id="star" width="32.267" height="32.193" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g filter="url(#star)">
+        <path id="star-2" fill="#0d87d5" d="M1974.842 1737.914l-2.291 5.322h-4.509l3.992 4.139-1.552 4.731 4.8-2.957 4.361 2.957-1.33-4.731 3.992-4.139h-5.027z" data-name="star" transform="translate(-1959.04 -1731.91)"/>
+    </g>
+</svg>

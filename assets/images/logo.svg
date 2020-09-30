@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122.61" height="48" viewBox="0 0 122.61 48">
+    <g id="logo" transform="translate(1094.744 -3285.484)">
+        <g id="Group_3828" data-name="Group 3828" transform="translate(-1094.744 3293.427)">
+            <g id="Group_3825" data-name="Group 3825" transform="translate(0 12.053)">
+                <path id="Path_2457" fill="#0071bc" d="M-1069.646 3428.632h-2.622l-9.984-17.227-9.878 17.227h-2.614l12.481-21.769z" data-name="Path 2457" transform="translate(1094.744 -3406.863)"/>
+            </g>
+            <g id="Group_3827" data-name="Group 3827" transform="translate(1.351)">
+                <g id="Group_3826" data-name="Group 3826">
+                    <path id="Path_2458" fill="#164173" d="M-1075.407 3333.7a11.148 11.148 0 0 0-11.136 11.136 11.154 11.154 0 0 0 1.337 5.291l2.852 5.157 1.319-2.3-2.18-3.942a8.889 8.889 0 0 1-1.059-4.2 8.878 8.878 0 0 1 8.868-8.868 8.877 8.877 0 0 1 8.867 8.867 8.887 8.887 0 0 1-1.056 4.2l-2.165 3.915 1.327 2.288 2.829-5.115a11.159 11.159 0 0 0 1.334-5.287 11.148 11.148 0 0 0-11.137-11.142zm0 29.46l-2.918-5.276-1.319 2.3 3.627 6.561a.694.694 0 0 0 .609.359.693.693 0 0 0 .608-.359l3.662-6.622-1.326-2.288z" data-name="Path 2458" transform="translate(1086.543 -3333.699)"/>
+                </g>
+            </g>
+        </g>
+        <text id="ADEB" fill="#164173" font-family="Ailerons-Regular, Ailerons" font-size="40px" letter-spacing="-0.053em" transform="translate(-1061.134 3325.484)">
+            <tspan x="0" y="0">ADEB</tspan>
+        </text>
+    </g>
+</svg>

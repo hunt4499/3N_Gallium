@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="management" width="12.276" height="12.276" viewBox="0 0 12.276 12.276">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_3935" data-name="Group 3935" transform="translate(6.498 2.873)">
+        <g id="Group_3934" data-name="Group 3934">
+            <path id="Path_9737" d="M271 119.825v2.905h2.905a3.291 3.291 0 0 0-2.905-2.905z" class="cls-1" data-name="Path 9737" transform="translate(-271 -119.825)"/>
+        </g>
+    </g>
+    <g id="Group_3937" data-name="Group 3937" transform="translate(4.085 6.498)">
+        <g id="Group_3936" data-name="Group 3936">
+            <path id="Path_9738" d="M172.564 271l-2.2 2.2a3.283 3.283 0 0 0 5.318-2.2z" class="cls-1" data-name="Path 9738" transform="translate(-170.362 -271)"/>
+        </g>
+    </g>
+    <g id="Group_3939" data-name="Group 3939" transform="translate(2.853 2.873)">
+        <g id="Group_3938" data-name="Group 3938">
+            <path id="Path_9739" d="M119 123.09a3.269 3.269 0 0 0 .723 2.053l2.2-2.2v-3.116A3.289 3.289 0 0 0 119 123.09z" class="cls-1" data-name="Path 9739" transform="translate(-119 -119.825)"/>
+        </g>
+    </g>
+    <g id="Group_3941" data-name="Group 3941">
+        <g id="Group_3940" data-name="Group 3940">
+            <path id="Path_9740" d="M12.276 7.367V4.909l-1.164-.339a5.2 5.2 0 0 0-.349-.84l.584-1.063L9.609.929l-1.063.584a5.191 5.191 0 0 0-.84-.349L7.367 0H4.909L4.57 1.164a5.194 5.194 0 0 0-.84.349L2.667.929.929 2.667l.584 1.063a5.192 5.192 0 0 0-.349.84L0 4.909v2.458l1.164.338a5.2 5.2 0 0 0 .349.84L.929 9.609l1.738 1.738 1.063-.584a5.192 5.192 0 0 0 .84.349l.338 1.164h2.459l.338-1.164a5.2 5.2 0 0 0 .84-.349l1.063.584 1.738-1.738-.584-1.063a5.192 5.192 0 0 0 .349-.84zm-6.138 2.775a4 4 0 1 1 4-4 4.009 4.009 0 0 1-4 4z" class="cls-1" data-name="Path 9740"/>
+        </g>
+    </g>
+</svg>
