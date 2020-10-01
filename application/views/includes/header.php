@@ -29,15 +29,18 @@
   <div class="container-scroller">
     <div class="horizontal-menu">
       <nav class="navbar top-navbar col-lg-12 col-12 p-0">
-        <div class="container">
-          <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center"> <a class="navbar-brand brand-logo" href="#"> <img src="<?= base_url(); ?>assets/images/logo-rief.png" alt="logo" /> </a> <a class="navbar-brand brand-logo-mini" href="index.html"><img src="<?= base_url(); ?>/assets/images/logo-mini.svg" alt="logo" /></a> </div>
+        <div class="container-fluid pl-5">
+          <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
+            <a class="navbar-brand brand-logo" href="#">
+              <img src="<?= base_url(); ?>assets/images/logo-rief.png" alt="logo" /> </a>
+            <a class="navbar-brand brand-logo-mini" href="index.html"><img src="<?= base_url(); ?>/assets/images/logo-mini.svg" alt="logo" /></a> </div>
           <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
             <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="horizontal-menu-toggle"> <span class="mdi mdi-menu"></span> </button>
           </div>
         </div>
       </nav>
       <nav class="bottom-navbar">
-        <div class="container">
+        <div class="container-fluid pl-4">
           <div class="row">
             <div class="col-md-5">
               <ul class="nav page-navigation">
@@ -47,8 +50,8 @@
                 <li class="nav-item"> <a class="nav-link" href="<?= base_url(); ?>contactus"> <i class="menu-icon"></i> <span class="menu-title">Contact us</span> </a> </li>
               </ul>
             </div>
-            
-            <div class="col-md-7">   
+
+            <div class="col-md-7">
             </div>
           </div>
         </div>
